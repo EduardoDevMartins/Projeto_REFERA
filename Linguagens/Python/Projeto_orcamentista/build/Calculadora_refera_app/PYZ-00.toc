@@ -1,4 +1,4 @@
-('C:\\Users\\Eduardo\\Desktop\\CaminhoDev\\Python\\Projeto_orcamentista\\build\\Calculadora_refera_app\\PYZ-00.pyz',
+('C:\\Users\\Eduardo\\desktop\\CaminhoDev\\Linguagens\\Python\\Projeto_orcamentista\\build\\Calculadora_refera_app\\PYZ-00.pyz',
  [('_compat_pickle', 'C:\\Python311\\Lib\\_compat_pickle.py', 'PYMODULE'),
   ('_compression', 'C:\\Python311\\Lib\\_compression.py', 'PYMODULE'),
   ('_py_abc', 'C:\\Python311\\Lib\\_py_abc.py', 'PYMODULE'),

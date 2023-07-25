@@ -28,11 +28,11 @@ def confirmar_alternativa():
 
     # Insira o usuário
     elemento_usuario = driver.find_element(By.XPATH, xpath_usuario)
-    elemento_usuario.send_keys("")
+    elemento_usuario.send_keys("eduardomartins@refera.com.br")
 
     # Insira a senha
     elemento_senha = driver.find_element(By.XPATH, xpath_senha)
-    elemento_senha.send_keys("")
+    elemento_senha.send_keys("Em18jmem#")
 
     # Envie o formulário de login pressionando Enter
     elemento_senha.send_keys(Keys.RETURN)
@@ -70,7 +70,7 @@ def confirmar_alternativa():
 
 
 # Defina os horários em que deseja confirmar a alternativa
-horarios = ["09:00", "14:10", "18:45"]  # Substitua pelos horários desejados
+horarios = ["09:00", "12:40", "18:45"]  # Substitua pelos horários desejados
 
 while True:
     # Obtenha o horário atual
