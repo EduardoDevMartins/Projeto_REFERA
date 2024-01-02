@@ -28,11 +28,11 @@ def confirmar_alternativa():
 
     # Insira o usuário
     elemento_usuario = driver.find_element(By.XPATH, xpath_usuario)
-    elemento_usuario.send_keys("eduardomartins@refera.com.br")
+    elemento_usuario.send_keys("Insira aqui seu e-mail")
 
     # Insira a senha
     elemento_senha = driver.find_element(By.XPATH, xpath_senha)
-    elemento_senha.send_keys("Em18jmem#")
+    elemento_senha.send_keys("Insira sua senha")
 
     # Envie o formulário de login pressionando Enter
     elemento_senha.send_keys(Keys.RETURN)
