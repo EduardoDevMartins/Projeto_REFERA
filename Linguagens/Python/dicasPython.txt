@@ -1,4 +1,0 @@
-Criar arquivo executavel python sem console
-Precisa estar dentro da pasta do codigo e colocar o nome do arquivo
-
-python -m PyInstaller --onefile --noconsole ponto_aut.py
