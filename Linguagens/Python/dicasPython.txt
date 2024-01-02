@@ -1,7 +1,4 @@
 Criar arquivo executavel python sem console
-PReciso estar dentro da pasta do codigo  colocar o nome do arquivo
+Precisa estar dentro da pasta do codigo e colocar o nome do arquivo
 
 python -m PyInstaller --onefile --noconsole ponto_aut.py
-
-Iniciar srvidor python:
-python manage.py runserver
